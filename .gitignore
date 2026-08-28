@@ -1,0 +1,39 @@
+# Visual Studio user specific files
+.suo
+.user
+.userosscache
+.sln.docstates
+
+# Visual Studio build output directories
+[Dd]ebug
+[Rr]elease
+x64
+x86
+ipch
+.vs
+
+# Compiled Object files
+.obj
+.exe
+.pdb
+.ilk
+.exp
+.lib
+.aps
+.ncb
+.tlog
+.idb
+
+# CMake generated files (nếu sau này dùng CMake)
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Makefile
+cmake_install.cmake
+install_local.cmake
+bin
+build
+
+# OS generated files
+.DS_Store
+Thumbs.db
